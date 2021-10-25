@@ -1,3 +1,25 @@
 header{
     background-color: rgb(0, 119, 255);
 }
+
+.the-booleaner{
+    color: blue;
+}
+
+.descrizione-foto{
+    font-size: 12px;
+}
+
+.lorem-color{
+    background: yellow;    
+}
+
+
+.prima-riga{
+    background: rgb(21, 126, 224);
+    color: white;
+}
+
+.riga-blu{
+    background: aqua;
+}
