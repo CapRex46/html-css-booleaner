@@ -23,3 +23,19 @@ header{
 .riga-blu{
     background: aqua;
 }
+
+h3{
+    color: gray;
+}
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+  }
+
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
